@@ -135,7 +135,7 @@ npx expo start
 
 ## 🎬 Tanıtım Videosu
 
-[![DevMood Tanıtım](https://img.shields.io/badge/▶%20YouTube'da%20İzle-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/YOUR_VIDEO_LINK)
+[![DevMood Tanıtım]([https://img.shields.io/badge/▶%20YouTube'da%20İzle-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/YOUR_VIDEO_LINK](https://youtube.com/shorts/7qFqQMKbt7k))
 
 ---
 
@@ -153,4 +153,4 @@ Bu proje, önce iskelet kod elle yazılmış, ardından Claude AI ile geliştiri
 
 ## 📄 Lisans
 
-MIT © 2025 — [Ahmet Yılmaz](https://github.com/KULLANICI_ADIN)
+MIT © 2025 — [Ahmet Yılmaz](https://github.com/tkara55)
